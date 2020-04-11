@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50c89d8a-05ac-4e05-a876-59c461ab9041" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aNkrmANGE5fclMxADObWXcIzj0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/images/php" />
+      <recent name="$PROJECT_DIR$/docker" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c89d8a-05ac-4e05-a876-59c461ab9041" name="Default Changelist" comment="" />
+      <created>1586583639703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586583639703</updated>
+      <workItem from="1586583641108" duration="4966000" />
+      <workItem from="1586598507118" duration="6402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="324" width="604" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586587682076">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="658" y="324" width="604" height="416" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1012@0.27.1920.1012" timestamp="1586587682076" />
+    <state x="629" y="242" width="652" height="579" key="#docker-compose.yaml:_Compose_Deployment" timestamp="1586601065073">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="629" y="242" width="652" height="579" key="#docker-compose.yaml:_Compose_Deployment/0.27.1920.1012@0.27.1920.1012" timestamp="1586601065073" />
+    <state x="100" y="125" width="1720" height="814" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586600563276">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="100" y="125" width="1720" height="814" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1012@0.27.1920.1012" timestamp="1586600563276" />
+    <state x="623" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1586608347241">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="623" y="247" width="672" height="678" key="search.everywhere.popup/0.27.1920.1012@0.27.1920.1012" timestamp="1586608347241" />
+    <state x="685" y="357" width="540" height="350" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586608421111">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="685" y="357" width="540" height="350" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1920.1012@0.27.1920.1012" timestamp="1586608421111" />
+  </component>
+</project>
