@@ -5,4 +5,4 @@ stop:
 build:
 	docker-compose build
 cli:
-	docker exec -it test_php_1 bash
+	docker exec -it php bash

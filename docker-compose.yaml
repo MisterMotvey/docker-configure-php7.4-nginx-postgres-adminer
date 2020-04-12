@@ -2,6 +2,7 @@ version: '3'
 
 services:
   nginx:
+    container_name: nginx
     image: nginx:latest
     restart: always
     ports:
@@ -14,6 +15,7 @@ services:
     links:
       - php
   php:
+    container_name: php
     build: ./docker/images/php
     links:
       - db
@@ -26,10 +28,14 @@ services:
     links:
       - db
   db:
-    image: postgres
-    ports:
-    - "3306:3306"
-    restart: always
+    container_name: db
+    image: postgres:10-alpine
     environment:
+      POSTGRES_DB: db_name
       POSTGRES_USER: root
       POSTGRES_PASSWORD: password
+    volumes:
+      - ./docker/db/initdb.d:/docker-entrypoint-initdb.d
+    ports:
+      - 127.0.0.1:55643:5432
+    restart: always
